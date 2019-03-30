@@ -4,4 +4,5 @@
 git branch
 git branch test_branch
 git checkout_branch
+git comit -am "your message goes here."
 ```
